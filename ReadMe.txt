@@ -17,3 +17,7 @@ npm install ts-node-dev -D (O pacote para compilar automaticamento)
 ======================================================================
 
 npx create-react-app web --template=typescript (cria um app de nome "web" ja com template typscript)
+
+git init (Inicializa um repositorio dentro da pasta)
+
+git remote add origin https://github.com/davidjmarinho/NextLevelWeek.git
